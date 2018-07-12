@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_quest_activity.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_openmap_mark.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_autonotifyconfig.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_locationconfig.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_hotwifi.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_function_list.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_openmap_focuse_mark.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_foreground.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_locationfilter.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_locationalarm.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_location.xml.flat",
+        "source": "E:\\AndroidStudioWork\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    }
+]
